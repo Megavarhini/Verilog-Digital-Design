@@ -10,6 +10,3 @@ Digital logic and Verilog HDL practice projects
 - `Half_Adder.v` - Sum = A ^ B, Carry = A & B
 - `Half_Adder_tb.v` - Testbench with $monitor
 
-### 02_4to1_MUX
-**Description**: 4:1 Multiplexer - Gate and Behavioral Modeling
-**Status**: Uploading...
